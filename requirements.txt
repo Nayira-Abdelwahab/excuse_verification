@@ -7,4 +7,4 @@ pytesseract
 
 c2pa-python
 invisible-watermark
-opencv-python
+opencv-python-headless

@@ -8,3 +8,4 @@ pytesseract
 c2pa-python
 invisible-watermark
 opencv-python-headless
+huggingface_hub

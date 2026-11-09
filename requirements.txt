@@ -1,0 +1,10 @@
+Pillow
+pypdf
+imagehash
+numpy
+pdf2image
+pytesseract
+
+c2pa-python
+invisible-watermark
+opencv-python
